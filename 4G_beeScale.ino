@@ -1,4 +1,5 @@
 /*
+ * 4G_beeScale - Système de pesée de ruche connectée
  * Copyright (C) 2026  Emmanuel COUVERCELLE (manu@couvercelle.eu)
  *
  * Ce programme est un logiciel libre : vous pouvez le redistribuer 
